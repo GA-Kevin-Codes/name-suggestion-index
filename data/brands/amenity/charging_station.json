@@ -1494,21 +1494,21 @@
     },
     {
       "displayName": "Tesla",
-      "id": "teslasupercharger-4bd82e",
+      "id": "tesla-4bd82e",
       "locationSet": {"include": ["001"]},
       "matchNames": [
-        "Tesla Supercharger",
-        "Tesla Destination Charger",
-        "Tesla Wall Connector",
+        "tesla destination charger",
         "tesla motors",
         "tesla motors inc",
+        "tesla supercharger",
+        "tesla wall connector",
         "特斯拉超级充电桩",
         "特斯拉超级充电站"
       ],
       "tags": {
         "amenity": "charging_station",
         "brand": "Tesla",
-        "brand:wikidata": "Q478214",
+        "brand:wikidata": "Q478214"
       }
     },
     {

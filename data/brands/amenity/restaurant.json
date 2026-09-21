@@ -49,17 +49,6 @@
   },
   "items": [
     {
-      "displayName": "Ribs",
-      "locationSet": {"include": ["es"]},
-      "tags": {
-        "amenity": "restaurant",
-        "brand": "Ribs",
-        "brand:wikidata": "Q141257141",
-        "cuisine": "barbecue",
-        "name": "Ribs"
-      }
-    },
-    {
       "displayName": "'t Zusje",
       "id": "tzusje-2b67bf",
       "locationSet": {"include": ["nl"]},
@@ -6774,6 +6763,18 @@
         "brand:wikidata": "Q7322197",
         "cuisine": "barbecue",
         "name": "RibCrib"
+      }
+    },
+    {
+      "displayName": "Ribs",
+      "id": "ribs-acf031",
+      "locationSet": {"include": ["es"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Ribs",
+        "brand:wikidata": "Q141257141",
+        "cuisine": "barbecue",
+        "name": "Ribs"
       }
     },
     {

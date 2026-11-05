@@ -10014,6 +10014,22 @@
       }
     },
     {
+            "displayName": "Mercantil Bank",
+            "id": "Mercantil Bank",
+            "locationSet": {
+                      "include": [
+                                  "ve"
+                      ]
+            },
+            "tags": {
+                      "amenity": "bank",
+                      "name": "Mercantil Bank",
+                      "alt_name": "Banco Mercantil",
+                      "brand:wikidata": "Q4854101",
+                      "brand": "Mercantil Bank"
+            }
+    },
+    {
       "displayName": "Meridian Credit Union",
       "id": "meridiancreditunion-e1345b",
       "locationSet": {"include": ["ca"]},

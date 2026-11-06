@@ -40,6 +40,13 @@
       }
     },
     {
+      "displayName": "BR",
+      "id": "BR",
+      "locationSet": { "include": ["dk"] },
+      "matchNames": ["Fætter BR", "BR Legetøj"],
+      "tags": { "shop": "toys", "name": "BR", "brand": "BR", "brand:wikidata": "Q4353228" }
+    },
+    {
       "displayName": "Bricks & Minifigs",
       "id": "bricksandminifigs-f7900c",
       "locationSet": {"include": ["ca", "us"]},

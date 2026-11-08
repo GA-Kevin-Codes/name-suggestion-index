@@ -1018,6 +1018,21 @@
       }
     },
     {
+      "displayName": "Mr Tyre",
+      "id": "Mr Tyre",
+      "locationSet": {
+        "include": [
+          "gb"
+        ]
+      },
+      "tags": {
+        "shop": "car_repair",
+        "name": "Mr Tyre",
+        "brand": "Mr Tyre",
+        "brand:wikidata": "Q140773479"
+      }
+    },
+    {
       "displayName": "Mr. Lube",
       "id": "mrlube-10e248",
       "locationSet": {"include": ["ca"]},

@@ -757,6 +757,22 @@
       }
     },
     {
+      "displayName": "Megabox",
+      "id": "Megabox",
+      "locationSet": {
+        "include": [
+          "kr"
+        ]
+      },
+      "tags": {
+        "amenity": "cinema",
+        "name:ko": "메가박스",
+        "name": "Megabox",
+        "brand": "Megabox",
+        "brand:wikidata": "Q492718"
+      }
+    },
+      {
       "displayName": "Megarama",
       "id": "megarama-2d2421",
       "locationSet": {
